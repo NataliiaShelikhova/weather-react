@@ -1,0 +1,120 @@
+.city {
+    color: #202124;
+    font-size: 35px;
+    line-height: 46px;
+    margin: 0;
+}
+
+.search-city-form {
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+img {
+    display: block;
+    position: relative;
+    left: 20px;
+}
+
+.future {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.day {
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.weather-icons {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.weather-forecast-date {
+    font-size: 24px;
+    font-weight: 500;
+    color: #46494d;
+    text-align: center;
+}
+
+.imageweather {
+    display: block;
+    margin: 0 auto;
+    margin-left: 10px;
+}
+
+.weather-forecast-temperature-max {
+    font-weight: bold;
+}
+
+.weather-forecast-temperature-min {
+    font-weight: bold;
+    opacity: 0.6;
+    color: #46494d;
+}
+
+.weather-forecast-temperatures {
+    text-align: center;
+}
+
+.currently-icon {
+    height: 80px;
+}
+
+h2 {
+    color: #70757a;
+}
+
+body {
+    background-image: url(https://krot.info/uploads/posts/2022-02/1645031368_1-krot-info-p-krasivii-nebesnii-fon-1.jpg);
+}
+
+.units {
+    font-size: 20px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+.weather-units .active {
+    color: #202124;
+    cursor: default;
+}
+
+.weather-units .active:hover {
+    text-decoration: none;
+}
+
+.current-temperature {
+    font-size: 80px;
+    position: relative;
+    left: 20px;
+}
+
+.add {
+    font-size: 20px;
+    font-weight: bold;
+    color: #70757a;
+    position: relative;
+    top: 35px;
+    right: -50px;
+}
+
+.value-humidity {
+    color: #202124;
+}
+
+.value-wind {
+    color: #202124;
+}
+
+.mylink {
+    text-align: center;
+    position: relative;
+    top: -130px;
+}
+
+.description {
+    text-transform: capitalize;
+}
