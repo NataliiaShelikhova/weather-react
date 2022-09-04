@@ -1,0 +1,17 @@
+.weather {
+    border: 1px solid #70757a;
+    padding: 20px;
+    margin: 140px auto;
+    max-width: 600px;
+    border-radius: 10px;
+
+    background-color: rgba(234, 245, 251, 0.5);
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    position: relative;
+
+    border-radius: 5px;
+    border-color: #202124;
+}
